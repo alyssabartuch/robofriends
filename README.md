@@ -1,4 +1,6 @@
 # robofriends
+Hosted: https://alyssabartuch.github.io/robofriends/
+
 Tutorial for udemy course - React
 To run the project:
 
